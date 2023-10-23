@@ -18,6 +18,7 @@
                 </div>
                 <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
                     <a href="/category">Category</a>
+                    <a href="/product">Product</a>
                 </div>
             </div>
 
